@@ -1,0 +1,30 @@
+﻿一.	Road Safety Issue
+Speeding 
+Pedestrian 行人;步行者
+Motorcyclist 骑摩托车的人
+Cyclist 骑自行车的人
+Alcohol 酒精
+Heavy Vehicles 重型车
+----------------------
+Speed Environment
+-----------------
+二.	Road Location Type
+Intersection 交叉;十字路口;交点!!!
+Midblock:(字典没有, 应该是中间有隔离物)
+
+三. Injury(伤害) 
+Crashes(猛撞)?
+
+九.	other:
+Region 地区；范围
+division 分割; 部门
+Statellite 卫星
+Tile Server 瓦片服务 
+Scale	范围
+geometry 几何结构
+
+Cube: 立方体
+Curve: 曲线
+Volume Plots: 体积
+resurface: 重新露面
+rehab: 修复
